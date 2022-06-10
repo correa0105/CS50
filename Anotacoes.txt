@@ -1,0 +1,28 @@
+Inicio do Curso 10/06/2022
+Nesse curso será anotado até oque eu ja conheço, pois quero deixar tudo que aprendi, explicito.
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Podemos escrever programas com os blocos de construção que acabamos de descobrir:
+
+- Funções
+- Condições
+- Expressões booleanas
+- Rotações
+
+E descobriremos recursos adicionais, incluindo:
+
+- Variáveis
+- tópicos
+- Eventos
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Operadores matematicos em C
+
++ Adição
+- Subtração
+* Multiplicação
+/ Divisão
+% Resto
+
